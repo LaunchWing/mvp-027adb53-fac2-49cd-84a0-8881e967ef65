@@ -1,0 +1,1 @@
+To provide a comprehensive guide for users on how to use the application effectively.

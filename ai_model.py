@@ -1,0 +1,1 @@
+To implement the AI logic for generating personalized resume templates based on user input and preferences.

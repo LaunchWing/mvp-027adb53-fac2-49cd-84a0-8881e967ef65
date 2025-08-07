@@ -1,0 +1,1 @@
+To define the terms and conditions for using the ResumeCraft AI application, protecting both the user and the company.

@@ -1,0 +1,1 @@
+To provide guidelines for contributing to the project, encouraging community involvement and collaboration.

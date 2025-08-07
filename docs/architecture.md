@@ -1,0 +1,1 @@
+To document the system architecture, detailing how different components of the application interact.

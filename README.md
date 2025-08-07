@@ -1,1 +1,1 @@
-# mvp-027adb53-fac2-49cd-84a0-8881e967ef65
+To provide an overview of the ResumeCraft AI project, including its purpose, features, and how to get started with the application.

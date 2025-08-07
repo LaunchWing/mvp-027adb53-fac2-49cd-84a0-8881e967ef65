@@ -1,0 +1,1 @@
+To handle the client-side logic of the application, including interactions with the AI model and dynamic updates to the UI.

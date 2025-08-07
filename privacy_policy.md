@@ -1,0 +1,1 @@
+To outline the data privacy measures and policies to ensure user trust and compliance with regulations.
